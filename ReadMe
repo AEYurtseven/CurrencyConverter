@@ -1,3 +1,3 @@
 
 Currency convert project done with C# in .Netframework usin WPF. It is a form application converts the currency entered by user to another currency.
-Currency rates gathered by https://openexchangerates.org/. The project was inspired by Denis Panjuta's course on Udemy named "Complete C# Masterclass".
+Currency rates gathered by https://openexchangerates.org/. The project was done with Denis Panjuta's course on Udemy named "Complete C# Masterclass".
